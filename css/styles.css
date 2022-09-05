@@ -1,0 +1,27 @@
+a.navbar-brand{
+    color: black;
+}
+
+.showcase-section{
+    background-image: url(../img/pexels-artem-saranin-1853541.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.showcase-section{
+    max-width: 50%;
+    padding-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.showcase-section h1{
+    text-align: center;
+}
+
+.showcase-section.write-up{
+    text-align: center;
+}
